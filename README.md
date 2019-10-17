@@ -1,7 +1,3 @@
----
-
-
----
 
 <h1 id="introduction">Introduction</h1>
 <p>Hive is a Data warehouse and ETL tool build over Hadoop framework to query structured and semi-structured data. It converts your HQL into Map Reduce jobs mostly.</p>
